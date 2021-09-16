@@ -6005,6 +6005,12 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Cat",
+      "age": null,
+      "description": "spooky",
+      "id": 1002
     }
   ]
 }
